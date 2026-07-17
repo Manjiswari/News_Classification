@@ -209,25 +209,24 @@ news-classification-ml/
 
 # 📊 Results
 
-| Model | Accuracy |
-|---------|----------|
-| Multinomial Naive Bayes | **84.76%** *(update with your actual result)* |
-| Linear SVM | **91.11%** *(update with your actual result)* |
+| Model                   | Accuracy      |
+|-------------------------|---------------|
+| Multinomial Naive Bayes | **84.76%**    |
+| Linear SVM              | **91.11%**    |
 
 The Support Vector Machine achieved better overall performance than Naive Bayes in terms of accuracy and classification metrics.
 
 ---
 
-# 🔍 Evaluation Metrics
+# Evaluation Metrics
 
 The models were evaluated using:
 
-- Accuracy
-- Precision
-- Recall
-- F1 Score
-- Classification Report
-- Confusion Matrix
+- Accuracy(images/accuracy.png)
+- Precision(images/precision.png)
+- Recall(images/recall.png)
+- F1 Score(images/f1_score.png)
+- Classification Report(images/classification_report.png)
 
 ---
 
@@ -272,10 +271,9 @@ rec.sport.baseball
 - Real-time News Classification
 
 ---
-***
 # Authors
 
-**J. Manjiswari**
+**J. Manjiswari**B.Tech CSE (AI & ML) 
 
 B.Tech CSE (AI & ML)
 
@@ -283,18 +281,10 @@ VIT-AP University
 
 ---
 
-**M. Jayasree**
-
-B.Tech CSE
-
-VIT-AP University
-
----
-
-# 📜 License
+# License
 
 This project is licensed under the MIT License.
 
 ---
 
-⭐ If you found this project useful, consider giving it a star.
+ If you found this project useful, consider giving it a star.
