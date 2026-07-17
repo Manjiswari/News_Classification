@@ -193,21 +193,18 @@ news-classification-ml/
 │
 ├── images/
 │   ├── confusion_matrix_nb.png
-│   ├── confusion_matrix_svm.png
-│   ├── architecture.png
-│   └── sample_prediction.png
+│   └── confusion_matrix_svm.png
+│   
 │
-├── docs/
-│   ├── Project_Report.pdf
-│   └── Presentation.pptx
-│
-└── outputs/
-    └── classification_reports.txt
+└── docs/
+    ├── Project_Report.pdf
+    └── Presentation.pptx
+
 ```
 
 ---
 
-# 📊 Results
+# Results
 
 | Model                   | Accuracy      |
 |-------------------------|---------------|
@@ -273,7 +270,7 @@ rec.sport.baseball
 ---
 # Authors
 
-**J. Manjiswari**B.Tech CSE (AI & ML) 
+**J. Manjiswari** 
 
 B.Tech CSE (AI & ML)
 
